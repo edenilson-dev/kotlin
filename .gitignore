@@ -1,0 +1,33 @@
+HELP.md
+learn/target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+learn/.apt_generated
+learn/.classpath
+learn/.factorypath
+learn/.project
+learn/.settings
+learn/.springBeans
+learn/.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+learn/nbproject/private/
+learn/nbbuild/
+learn/dist/
+learn/nbdist/
+learn/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
