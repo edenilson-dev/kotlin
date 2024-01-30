@@ -1,4 +1,4 @@
-package com.elsistemas.Kotlin
+package com.elsistemas.kotlin
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
